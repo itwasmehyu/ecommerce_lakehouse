@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Docker & OS
+.DS_Store
+.docker/
+*.log
+
+# Project Specific - DATA (Cực kỳ quan trọng)
+# Không đẩy dữ liệu thô hoặc kết quả xử lý lên GitHub
+data/
+scripts/checkpoint/
+.ivy2/
+
+# Spark/Hadoop logs
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Airflow
+standalone_admin_password.txt
+airflow.db
+airflow.cfg
+logs/
