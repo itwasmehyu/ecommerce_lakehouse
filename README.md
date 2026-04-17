@@ -75,3 +75,9 @@ Hệ thống được thiết kế theo mô hình Lakehouse hiện đại, kết
 * Tích hợp Delta Lake để hỗ trợ ACID Transactions (Update/Delete dữ liệu trong Lakehouse).
 * Xây dựng Dashboard Real-time bằng Streamlit hoặc Grafana.
 * Triển khai giám sát (Monitoring) sức khỏe các node Kafka và Spark bằng Prometheus.
+
+![Airflow DAG Run Success](images/db36e25de034616a3825.jpg)
+
+![Containers and Services](images/cb30567d-dadf-4154-a7ec-d183399c856e.jpg)
+
+![MinIO Bucket Structure](images/af2c4fce-50f6-45cd-b3d3-9ab5dfc56430.jpg)
