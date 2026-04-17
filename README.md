@@ -78,6 +78,6 @@ Hệ thống được thiết kế theo mô hình Lakehouse hiện đại, kết
 
 ![Airflow DAG Run Success](images/db36e25de034616a3825.jpg)
 
-![Containers and Services](images/cb30567d-dadf-4154-a7ec-d183399c856e.jpg)
+![Containers and Services](images/cb30567d-dadf-4154-a7ec-d183399c856e.jpeg)
 
-![MinIO Bucket Structure](images/af2c4fce-50f6-45cd-b3d3-9ab5dfc56430.jpg)
+![MinIO Bucket Structure](images/af2c4fce-50f6-45cd-b3d3-9ab5dfc56430.jpeg)
